@@ -1,0 +1,2 @@
+auv_chat:bot_simulator:edge_detector:number_play:webcam_display
+-DCATKIN_DEVEL_PREFIX=/home/shwetha/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/shwetha/catkin_ws/install -G Unix Makefiles

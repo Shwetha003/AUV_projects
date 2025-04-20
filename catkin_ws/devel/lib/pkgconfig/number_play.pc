@@ -1,0 +1,8 @@
+prefix=/home/shwetha/catkin_ws/devel
+
+Name: number_play
+Description: Description of number_play
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
